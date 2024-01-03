@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome! I'm Saira</h1>
-<h3 align="center"> Systems Analyst and programmer student 👩‍💻</h3>
+<h3 align="center"> Systems Analyst and Programmer student 👩‍💻</h3>
 
 
 
